@@ -10,7 +10,7 @@ INSALES_API_PASS = 'insales-password'
 INSALES_PER_PAGE: int = 250
 
 MOYSKLAD_BASE_URL = 'https://online.moysklad.ru/api/remap/1.2'
-MOYSKLAD_TOKEN = 'moy-sklad-token'  # replace this token when switching Moysklad account
+MOYSKLAD_TOKEN = 'moysklad-token'  # replace this token when switching Moysklad account
 MOYSKLAD_PER_PAGE: int = 500
 
 
