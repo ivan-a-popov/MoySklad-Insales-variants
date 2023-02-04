@@ -57,7 +57,7 @@ python3 main.py
 
 8. Добавьте в crontab строку для запуска скрипта каждый час:
 ```crontab
-* 0-23  *   *   * root /path/to/script/run_script.sh
+* 0-23 * * * /path/to/script/run_script.sh
 ```
 
 9. Для того, чтобы переключиться на другой аккаунт МойСклад:
